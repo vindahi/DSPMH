@@ -7,10 +7,9 @@ h5py                      3.10.0
 scipy                     1.10.1
 
 ## Secondly
-mkdir Data
-mkdir logs
+mkdir Data logs
 
 ## Last
-bash flickr.sh
+bash flickr.sh;
 bash nus.sh
 
